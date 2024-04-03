@@ -2,3 +2,12 @@ h1 {
     background-color:rgb(141, 239, 121);
     font-style:oblique
 }
+
+main {
+    text-decoration-style: dotted;
+    margin: 2%;
+}
+
+p {
+    padding: 5%;
+}
